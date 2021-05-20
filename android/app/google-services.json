@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "248784968048",
+    "firebase_url": "https://lovedebate-284214.firebaseio.com",
+    "project_id": "lovedebate-284214",
+    "storage_bucket": "lovedebate-284214.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248784968048:android:10e0cc0d7402f850b3d7b5",
+        "android_client_info": {
+          "package_name": "com.example.lovedebate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248784968048-ah7u0npbpur2v4o6brmuc1beb24k2dl3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lovedebate",
+            "certificate_hash": "67a94f6de48c90541903b65b4d4f51988376a4be"
+          }
+        },
+        {
+          "client_id": "248784968048-vo2bdb1e20idduik3gld9i2gr7848t2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgK5g4bf6R_bNnvSNftKdkbIEU96gOv0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248784968048-vo2bdb1e20idduik3gld9i2gr7848t2d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "248784968048-sfc6jlir9mg143ht51emhn12sd8uf2aq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.patronum.lovedebate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
